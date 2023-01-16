@@ -1,0 +1,39 @@
+
+body{
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo1 img{
+    width: 1.3rem;
+}
+.carousel-item img{
+    width: 94rem;
+    height: 35rem;
+}
+.row h2{
+    text-align: center;
+}
+.mob1 img{
+    width: 8rem;
+}
+.mob1 p,h6{
+    text-align: center;
+}
+.tws p{
+    text-align: center;
+}
+.homap img,h6{
+    width: 100%;
+    text-align: center;
+}
+.soci li{
+    list-style-type: none;
+    font-size: 2rem;
+}
+footer li{
+    color: aliceblue;
+    list-style-type: none;
+}
